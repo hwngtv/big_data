@@ -1,0 +1,5 @@
+airflow-webserver: 8080
+namenode: 9870
+superset: 8088
+
+tat safe mode hdfs dfsadmin -safemode leave
