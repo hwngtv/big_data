@@ -65,11 +65,4 @@ postgresql://datawarehouse:datawarehouse@data-warehouse:5432/datawarehouse
 ### Top game genre App store
 <img style="width:75%" src="https://github.com/Tran-Ngoc-Bao/Analyze_Game_Data/blob/master/pictures/output/classify-app-store-09092024-2024-09-10T15-37-01.306Z.jpg">
 
-## Old version
-<ul>
-  <li><a href="https://github.com/Tran-Ngoc-Bao/Analyze_Game_data/blob/master/old_version/report/report.pdf">Report</a></li>
-  <li><a href="https://github.com/Tran-Ngoc-Bao/Analyze_Game_data/blob/master/old_version/report/slide.pptx">Slide</a></li>
-  <li><a href="https://github.com/Tran-Ngoc-Bao/Analyze_Game_data/blob/master/old_version/report/system-flow.png">Data flow</a></li>
-  <li><a href="https://github.com/Tran-Ngoc-Bao/Analyze_Game_data/blob/master/old_version/report/VirtualMachine.png">System architecture</a></li>
-  <li><a href="https://github.com/Tran-Ngoc-Bao/Analyze_Game_data/blob/master/old_version/report/screen-shots/">Output</a></li>
-</ul>
+
